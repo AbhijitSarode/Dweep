@@ -18,9 +18,9 @@ To view the project, simply open the `index.html` file in your web browser. You 
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot-1.png)
+Desktop version ![Screenshot 1](./screenshots/desktop.png)
 
-![Screenshot 2](/screenshots/screenshot-2.png)
+Mobile version ![Screenshot 2](/screenshots/mobile.png)
 
 
 ## Contact
